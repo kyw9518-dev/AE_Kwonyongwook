@@ -5,6 +5,7 @@
 🔗 포트폴리오 전체 보기: [광고인 권용욱 Portfolio](https://kyw9518-dev.github.io/AE_Kwonyongwook/%EA%B4%91%EA%B3%A0%EC%9D%B8_%EA%B6%8C%EC%9A%A9%EC%9A%B1_portfolio)
 ✍️ Brunch: https://brunch.co.kr/@woogake2
 💼 LinkedIn: https://www.linkedin.com/in/yongwook-kwon-16a067140/
+🎥 인터뷰 영상: [HS애드人터뷰 — 광고인 권용욱](https://youtu.be/O_UBxVPLqjA)
 
 ---
 
