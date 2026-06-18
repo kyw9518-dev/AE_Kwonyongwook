@@ -1,6 +1,6 @@
 # 권용욱 (Kwon Yongwook) — 광고인 · Brand Marketer Portfolio
 
-광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 기획·실행했다. 현재 Publicis Groupe Korea에서 Director of Digital Communication으로 재직 중이다.
+광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 열정적으로 기획·실행해왔다. 현재 Publicis Groupe Korea에서 Director of Digital Communication으로 재직 중이다.
 
 🔗 포트폴리오 전체 보기: [광고인 권용욱 Portfolio](https://kyw9518-dev.github.io/AE_Kwonyongwook/%EA%B4%91%EA%B3%A0%EC%9D%B8_%EA%B6%8C%EC%9A%A9%EC%9A%B1_portfolio)
 ✍️ Brunch: https://brunch.co.kr/@woogake2
@@ -22,7 +22,7 @@
 | 2015.04 — 2017.04 | Creative Lounge | 대리 | BMW MINI 브랜드 경험 기획(MINI Flea Market, BIMOS) · Stella Artois 캠페인 |
 | 2013.09 — 2014.01 | 대홍기획 | AS3팀 인턴 | 세븐럭카지노 · 쿠쿠전자 |
 
-광고인 권용욱은 자동차(Mercedes-Benz, BMW MINI, Volkswagen), 가전(LG전자 H&A), FMCG(상쾌환, Stella Artois), 게임(카카오게임즈), 교육(미래엔) 등 폭넓은 카테고리에서 브랜드 전략과 캠페인 실행 경험을 쌓아왔다.
+광고인 권용욱은 자동차(Mercedes-Benz, BMW MINI, Volkswagen), 가전(LG전자 H&A), FMCG(상쾌환, Stella Artois), 게임(카카오게임즈), 교육(미래엔) 등 폭넓은 카테고리에서 브랜드 전략과 캠페인 실행 경험을 쌓아왔으며, 광고 업에 대한 진심과 꾸준한 열정으로 각 캠페인을 성공적으로 이끌어왔다.
 
 ## 수상 내역 (Awards & Recognition)
 
@@ -42,7 +42,7 @@
 
 ## About
 
-광고인 권용욱은 IMC, Digital, BTL, Global Campaign 등 다양한 형태의 캠페인을 담당하며 11년의 경력을 쌓은 브랜드 마케터다. Creative Lounge에서 BMW MINI · Stella Artois의 브랜드 경험 기획을 시작으로, Makeulike에서 카카오게임즈 · BMW 디지털 실무를 익혔고, Leo Burnett Korea에서는 Mercedes-Benz · Volkswagen의 IMC 마케팅을 담당하며 글로벌 브랜드 커뮤니케이션의 깊이를 더했다. HSAD에서는 LG전자 H&A 글로벌 캠페인부터 상쾌환 IMC 캠페인까지 카테고리와 스케일을 넘나드는 경험을 쌓으며 대한민국 디지털광고대상 대상·금상을 수상했다. 현재는 Publicis Groupe Korea에서 Director로 근무하며 BRITA 코리아를 비롯한 브랜드 전략 수립과 캠페인 실행을 이어가고 있다.
+광고인 권용욱은 IMC, Digital, BTL, Global Campaign 등 다양한 형태의 캠페인을 담당하며 11년의 경력을 쌓은 브랜드 마케터다. 광고 업에 진심을 다하는 자세로 Creative Lounge에서 BMW MINI · Stella Artois의 브랜드 경험 기획을 시작으로, Makeulike에서 카카오게임즈 · BMW 디지털 실무를 익혔고, Leo Burnett Korea에서는 Mercedes-Benz · Volkswagen의 IMC 마케팅을 담당하며 글로벌 브랜드 커뮤니케이션의 깊이를 더했다. HSAD에서는 LG전자 H&A 글로벌 캠페인부터 상쾌환 IMC 캠페인까지 카테고리와 스케일을 넘나드는 캠페인을 성공적으로 이끌며 대한민국 디지털광고대상 대상·금상을 수상했다. 현재는 Publicis Groupe Korea에서 Director로 근무하며 BRITA 코리아를 비롯한 브랜드 전략 수립과 캠페인 실행을 변함없는 열정으로 이어가고 있다.
 
 브런치(brunch.co.kr/@woogake2)에서 광고, 브랜드 전략, GEO/AEO 등 마케팅 산업에 대한 글을 꾸준히 발행하고 있다.
 
